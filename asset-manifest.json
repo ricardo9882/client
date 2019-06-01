@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/proyecto-agencias-autos/static/css/main.437355cf.chunk.css",
+    "main.js": "/proyecto-agencias-autos/static/js/main.d3b24c9d.chunk.js",
+    "main.js.map": "/proyecto-agencias-autos/static/js/main.d3b24c9d.chunk.js.map",
+    "runtime~main.js": "/proyecto-agencias-autos/static/js/runtime~main.c3fd406d.js",
+    "runtime~main.js.map": "/proyecto-agencias-autos/static/js/runtime~main.c3fd406d.js.map",
+    "static/js/2.e77ab44d.chunk.js": "/proyecto-agencias-autos/static/js/2.e77ab44d.chunk.js",
+    "static/js/2.e77ab44d.chunk.js.map": "/proyecto-agencias-autos/static/js/2.e77ab44d.chunk.js.map",
+    "index.html": "/proyecto-agencias-autos/index.html",
+    "precache-manifest.f9058d8d4a4dd0166df39083bb07abbb.js": "/proyecto-agencias-autos/precache-manifest.f9058d8d4a4dd0166df39083bb07abbb.js",
+    "service-worker.js": "/proyecto-agencias-autos/service-worker.js",
+    "static/css/main.437355cf.chunk.css.map": "/proyecto-agencias-autos/static/css/main.437355cf.chunk.css.map",
+    "static/media/App.css": "/proyecto-agencias-autos/static/media/banner-kasa.7845dcbd.jpg",
+    "static/media/header-auto.png": "/proyecto-agencias-autos/static/media/header-auto.8cade623.png",
+    "static/media/honda-logo.png": "/proyecto-agencias-autos/static/media/honda-logo.2c9d4ed2.png",
+    "static/media/icon-phone.svg": "/proyecto-agencias-autos/static/media/icon-phone.5abd7de7.svg",
+    "static/media/icon-pointer.svg": "/proyecto-agencias-autos/static/media/icon-pointer.1c107061.svg",
+    "static/media/icon-whatsapp.svg": "/proyecto-agencias-autos/static/media/icon-whatsapp.661aeaa4.svg",
+    "static/media/img-mapa.jpg": "/proyecto-agencias-autos/static/media/img-mapa.26743a77.jpg",
+    "static/media/kasa-logo-hr.svg": "/proyecto-agencias-autos/static/media/kasa-logo-hr.a886fd61.svg",
+    "static/media/kasa-logo.svg": "/proyecto-agencias-autos/static/media/kasa-logo.64876d6e.svg"
+  }
+}
