@@ -2,7 +2,6 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://ricardo9882.github.io/proyecto-agencias-autos/",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
@@ -33,6 +32,7 @@
       "last 1 safari version"
     ]
   },
+  "homepage": "https://ricardo9882.github.io/client",
   "devDependencies": {
     "gh-pages": "^2.0.1"
   }
